@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body
 {
     background: #1e1f24;
@@ -8,12 +8,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
-=======
-body{
-	color: black;
-	text-align: left;
-	font-family: "Arial";
->>>>>>> footer
+
 }
 
 #cabecera
@@ -32,7 +27,7 @@ body{
     vertical-align: middle;
 }
 
-<<<<<<< HEAD
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -57,16 +52,12 @@ body{
 {
     background: white;
     padding: 1em;
-=======
-#cabecera #tagline{
-	padding: 0 0 0 1em;
-	font-weight: normal;
-	font-size: 0.8em;
-}
+    
+    }
 
 .footer{
 	
-	background-color: #33A;
+	background-color: gray;
 	color:white;
 	font-size: 20px;
 	margin:0;
@@ -75,5 +66,5 @@ body{
 .footer p{
 	width: 100%;
 	height: 100%;
->>>>>>> footer
+
 }
